@@ -1,4 +1,4 @@
-'''
+
 
 #Print Hello Word
 print('-----Hello Word------')
@@ -53,11 +53,11 @@ square=int(input('Enter The Number : '))
 print('Area Of Square : ',square*square)
 print('')
 
-'''
+
 #volume of cube
 print('-----Volume Of Cube------')
 cube=int(input('Enter The Number : '))
 
 print('Area Of Cube : ',cube*cube*cube)
 print('')
--
+

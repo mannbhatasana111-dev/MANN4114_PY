@@ -69,7 +69,7 @@ for num in range(2, 51):
 print("\n")
 
 
-#6️⃣ Largest of 3 Numbers Using Nested If
+#6 Largest of 3 Numbers Using Nested If
 print('-----Largest of Three Numbers------')
 
 a = int(input("Enter first number: "))

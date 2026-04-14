@@ -1,8 +1,3 @@
-'''
------PYTHON FUNCTIONS PROGRAM-----
-All 7 Programs - Proper Pattern
-'''
-
 print('-----Arithmetic Operation------')
 
 #1 Arithmetic Operations

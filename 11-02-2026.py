@@ -1,6 +1,3 @@
-
-'''
-
 add = lambda x, y : x + y
 sub = lambda x, y : x - y
 malti = lambda x, y : x * y
@@ -22,5 +19,5 @@ elif op == '*':
 elif op == '/':
     print(div(num1,num2))
 
-'''
+
 
