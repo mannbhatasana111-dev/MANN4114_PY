@@ -1,0 +1,21 @@
+RollNo,Name,Gender,E-Mail,Mobile,Age,City
+101,Aarav Sharma,Male,aarav.s@email.com,91-9876543210,20,Mumbai
+102,Priya Patel,Female,priya.p@email.com,9876543211,22,Rajkot
+103,Ishaan Iyer,Male,ishaan.i@email.com,91-9876543212,19,Chennai
+104,Ananya Das,Female,ananya.d@email.com,9876543213,21,Kolkata
+105,Kabir Singh,Male,kabir.s@email.com,91-9876543214,23,Rajkot
+106,Meera Nair,Female,meera.n@email.com,9876543215,20,Bangalore
+107,Rohan Gupta,Male,rohan.g@email.com,91-9876543216,24,Pune
+108,Sara Khan,Female,sara.k@email.com,9876543217,19,Hyderabad
+109,Aditya Verma,Male,aditya.v@email.com,91-9876543218,22,Rajkot
+110,Diya Reddy,Female,diya.r@email.com,9876543219,21,Bangalore
+111,Vivaan Joshi,Male,vivaan.j@email.com,91-9876543220,20,Mumbai
+112,Kavya Menon,Female,kavya.m@email.com,9876543221,23,Chennai
+113,Arjun Bose,Male,arjun.b@email.com,91-9876543222,22,Kolkata
+114,Sana Malhotra,Female,sana.m@email.com,9876543223,20,Delhi
+115,Rahul Mishra,Male,rahul.m@email.com,91-9876543224,25,Rajkot
+116,Zoya Ahmed,Female,zoya.a@email.com,9876543225,19,Bhopal
+117,Aryan Goel,Male,aryan.g@email.com,91-9876543226,21,Indore
+118,Myra Kapoor,Female,myra.k@email.com,9876543227,22,Rajkot
+119,Devansh Shah,Male,dev.s@email.com,91-9876543228,20,Surat
+120,Tara Pillai,Female,tara.p@email.com,9876543229,23,Kochi
